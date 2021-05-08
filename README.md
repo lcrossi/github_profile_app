@@ -1,4 +1,5 @@
 ### Github profile App
 
-Python project 
+Python project:
+
 Search and visualize a github profile
